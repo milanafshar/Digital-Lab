@@ -6,8 +6,7 @@ body {
 
 header, section, footer {
   max-width: 800px;
-  margin: 0 auto 30px auto;
-}
+  margin: 0 auto 30px auto;}
 
 h1 {
   margin-bottom: 10px;
